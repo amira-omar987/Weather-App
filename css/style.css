@@ -1,0 +1,63 @@
+.item-footer img {
+  width: 30px;
+  height: 30px;
+}
+
+body {
+  background-image: url(../images/pexels-photo-551615.jpeg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.item {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.first {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.last {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.item-content img {
+  width: 7rem;
+  height: 7rem; 
+}
+
+.item-content span {
+  font-size: 1.4rem;
+  color: white;
+}
+
+.city {
+  font-size: 2.5rem;
+  font-weight: 500;
+}
+
+input {
+  background-color: transparent;
+  font-size: 1.2rem;
+}
+
+input::placeholder {
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.par {
+  font-size: 1.5rem;
+}
+h1 {
+  font-family: "Sevillana", cursive;
+  font-size: 3rem;
+  font-weight: 600;
+  color: white;
+}
+.image {
+  width: 50px;
+  height: 50px;
+}
